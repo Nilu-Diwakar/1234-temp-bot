@@ -16,6 +16,7 @@ from bot import Bot
 from config import (
     ADMINS,
     FORCE_MSG,
+    FORCE_PIC,
     START_MSG,
     CUSTOM_CAPTION,
     IS_VERIFY,
